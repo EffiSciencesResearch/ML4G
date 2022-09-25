@@ -1,6 +1,6 @@
 This repo contains the instructions for the ML for Good seminar proposed by EffiSciences for French speaking students and researchers interested in AI safety.
 
-We take over the program of the Redwood Research mlab which lasts 4 weeks. We think it is possible to see the essence of the program in 10 days: 7 days of training and 3 days of projects.
+We take over the program of the Redwood Research mlab which lasts 4 weeks. We think it is possible to see the essence of the program in 10 days: 7 days of training and 3 days of projects
 
 The program is aimed at beginners in machine learning, but is quite ambitious, and we hope that even advanced students will enjoy participating in this program.
 
